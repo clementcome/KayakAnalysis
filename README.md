@@ -11,7 +11,7 @@ This project aims at retrieving data from gpx files and analysing and visualize 
 
 ## Organization of the project
 
-There are 3 custom packages : `gpx_collect, data_process, data_visualization`, a helpers directory containing examples of gpx, a jupyter notebook : `Notebook.ipynb` used for experiencing some data handling before implementing it. And finally, there is the `main.py` which is the only file that should be executed because the project involves package dependencies. From this file, function defined in the 3 packages can be called.
+There are 3 custom packages : `gpx_collect, data_process, data_visualization`, a helpers directory containing examples of gpx. And finally, there is the `main.py` which is the only file that should be executed because the project involves package dependencies. From this file, function defined in the 3 packages can be called.
 
 ### `gpx_collect` package
 This package allows us to retrieve the data from gpx files in a python dictionary really easy to use and to convert into a pandas DataFrame.
