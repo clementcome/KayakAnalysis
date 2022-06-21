@@ -11,7 +11,7 @@ mccabe==0.6.1
 mkl-fft==1.0.14
 mkl-random==1.1.0
 mkl-service==2.3.0
-numpy==1.16.5
+numpy==1.22.0
 pandas==0.25.1
 plotly==4.1.1
 pylint==2.4.2
